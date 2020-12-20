@@ -11,7 +11,7 @@ I dont have time to explain this shitty tool figure it out yourself . Dont be a 
 Iam too lazy to update target list
 
 
-this tool is for education purposes only dont missuse it iam not responsible!
+this tool is for educational purposes only dont missuse it iam not responsible!
 
 
 
