@@ -1,4 +1,5 @@
-# Mass-deface
+![](https://img.shields.io/badge/python-v3.7-blue)
+
 Mass deface's 1500 website on one go
 
 
