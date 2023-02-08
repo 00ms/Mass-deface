@@ -18,9 +18,9 @@ banner = """
 888       888 "Y888888  88888P'  88888P'  "Y88888  "Y8888  888   "Y888888  "Y8888P "Y8888  
                                                                                            
                                                                                            
-                                                                                by-Discodancer212
-             Coded By :- DISCODANCER
- Github   :-www.github.com/DISCODANCER212
+                                                                                by-69b1t
+             Coded By :- 69b1t
+ Github   :-www.github.com/69b1t
  
 
  """
